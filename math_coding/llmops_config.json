@@ -3,18 +3,9 @@
             {
                 "ENV_NAME": "pr",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
-                "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
-                "STANDARD_FLOW_PATH": "flows/math_standard_flow",
-                "EVALUATION_FLOW_PATH": "flows/math_evaluation_flow"
-            },
-            {
-                "ENV_NAME": "dev",
-                "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
-                "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "KEYVAULT_NAME": "amlarnedeproft3933258782",
+                "RESOURCE_GROUP_NAME": "techready2024",
+                "WORKSPACE_NAME": "AML-arnedeproft",
                 "STANDARD_FLOW_PATH": "flows/math_standard_flow",
                 "EVALUATION_FLOW_PATH": "flows/math_evaluation_flow"
             }

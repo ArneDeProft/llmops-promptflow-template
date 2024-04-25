@@ -192,7 +192,7 @@ def prepare_and_execute(
                         run = Run(
                             flow=flow,
                             data=data_id,
-                            runtime=runtime,
+                            #runtime=runtime,
                             # un-comment the resources parameter assignment
                             # and update the size of the compute and also
                             # comment the runtime parameter assignment to
@@ -246,7 +246,7 @@ def prepare_and_execute(
             run = Run(
                 flow=flow,
                 data=data_id,
-                runtime=runtime,
+               # runtime=runtime,
                 # un-comment the resources parameter assignment
                 # and update the size of the compute and also
                 # comment the runtime parameter assignment to
